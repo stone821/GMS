@@ -12,6 +12,7 @@ npm-debug.log*
 .eslintcache 
 ### don't commit css files ####
 *.less
+.eslintrc.js
 
 ### STS ###
 .apt_generated
