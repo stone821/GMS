@@ -2,8 +2,16 @@
 !.mvn/wrapper/maven-wrapper.jar
 node_modules/
 
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# cache 
+.npm
+.eslintcache 
 ### don't commit css files ####
-*.css
+*.less
 
 ### STS ###
 .apt_generated

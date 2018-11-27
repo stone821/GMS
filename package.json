@@ -8,10 +8,10 @@
   },
   "author": "triplestone",
   "license": "ISC",
-  "dependencies": {
-    "less": "^3.8.1"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "gulp": "^4.0.0"
+    "eslint": "^5.9.0",
+    "gulp": "^4.0.0",
+    "less": "^3.8.1"
   }
 }
